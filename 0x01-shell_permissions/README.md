@@ -1,1 +1,1 @@
-1- su -l switches current user to new user
+1- su switches current user to new user
